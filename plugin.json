@@ -5,7 +5,7 @@
     },
     "data": [
         {
-            "name": "LacaTruyen",
+            "name": "LacaT",
             "author": "Zela",
             "path": "https://raw.githubusercontent.com/Minhhiep24/lacatruyen-vbook/main/lacatruyen/plugin.zip",
             "version": 3,
@@ -16,7 +16,7 @@
             "locale": "vi_VN"
         },
         {
-            "name": "Dâm cô nương",
+            "name": "Damcn",
             "author": "Zela",
             "path": "https://raw.githubusercontent.com/Minhhiep24/lacatruyen-vbook/main/damconuong/plugin.zip",
             "version": 1,
